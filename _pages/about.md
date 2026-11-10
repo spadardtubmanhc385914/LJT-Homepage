@@ -58,23 +58,23 @@ Publications
 ======
 **2025**
 
-* **Junteng Liu**, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He. &quot;SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond.&quot; <i>Arxiv</i>, 2025. (First author) [[Paper](/publication/2025-synlogic/)]
+* **Junteng Liu**, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He. &quot;SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond.&quot; <i>Arxiv</i>, 2025. (First author) [[Paper]({{ '/publication/2025-synlogic/' | relative_url }})]
 
-* **Junteng Liu**, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. &quot;On the Perception Bottleneck of VLMs for Chart Understanding.&quot; <i>Arxiv</i>, 2025. (First author) [[Paper](/publication/2025-perception-bottleneck-vlm-chart/)]
+* **Junteng Liu**, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. &quot;On the Perception Bottleneck of VLMs for Chart Understanding.&quot; <i>Arxiv</i>, 2025. (First author) [[Paper]({{ '/publication/2025-perception-bottleneck-vlm-chart/' | relative_url }})]
 
 **2024**
 
-* **Junteng Liu**, Shiqi Chen, Yu Cheng, Junxian He. &quot;On the Universal Truthfulness Hyperplane Inside LLMs.&quot; <i>EMNLP 2024</i>. (First author) [[Paper](/publication/2024-universal-truthfulness-hyperplane/)]
+* **Junteng Liu**, Shiqi Chen, Yu Cheng, Junxian He. &quot;On the Universal Truthfulness Hyperplane Inside LLMs.&quot; <i>EMNLP 2024</i>. (First author) [[Paper]({{ '/publication/2024-universal-truthfulness-hyperplane/' | relative_url }})]
 
-* Shiqi Chen, Miao Xiong, **Junteng Liu**, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He. &quot;In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation.&quot; <i>ICML 2024</i>. (Co-author) [[Paper](/publication/2024-in-context-sharpness/)]
+* Shiqi Chen, Miao Xiong, **Junteng Liu**, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He. &quot;In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation.&quot; <i>ICML 2024</i>. (Co-author) [[Paper]({{ '/publication/2024-in-context-sharpness/' | relative_url }})]
 
 **2023**
 
-* Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, **Junteng Liu**, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He. &quot;C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models.&quot; <i>NeurIPS 2023</i>. (Co-author) [[Paper](/publication/2023-ceval/)]
+* Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, **Junteng Liu**, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He. &quot;C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models.&quot; <i>NeurIPS 2023</i>. (Co-author) [[Paper]({{ '/publication/2023-ceval/' | relative_url }})]
 
-* Jinghan Zhang, Shiqi Chen, **Junteng Liu**, Junxian He. &quot;Composing Parameter-Efficient Modules with Arithmetic Operations.&quot; <i>NeurIPS 2023</i>. (Co-author) [[Paper](/publication/2023-composing-parameter-efficient-modules/)]
+* Jinghan Zhang, Shiqi Chen, **Junteng Liu**, Junxian He. &quot;Composing Parameter-Efficient Modules with Arithmetic Operations.&quot; <i>NeurIPS 2023</i>. (Co-author) [[Paper]({{ '/publication/2023-composing-parameter-efficient-modules/' | relative_url }})]
 
-A complete list is also available on my [publications page](/publications/).
+A complete list is also available on my [publications page]({{ '/publications/' | relative_url }}).
 
 Contact
 ======
